@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Rahul Singh
+Rahul Singh
+Back-End developer
 
 Show Contacts
 
 Email
-richard@example.com
+rahsin_11@outlook.com
 
 Phone
-+1 (213) 352-2795
++91 8399887765
 
 Birthday
-June 23, 1982
+30th March
 
 Location
-Sacramento, California, USA
+Bangalore, India
 
 # navbar
 
@@ -32,7 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm Creative Director and UI/UX Designer from Bangalore INDIA, working in IBM India. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
@@ -93,8 +93,8 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
+Chandigarh University 
+2015 — 2019
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 New york academy of art
