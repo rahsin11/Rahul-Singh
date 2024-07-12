@@ -32,6 +32,6 @@ git clone https://github.com/rahsin11/Rahul-Singh.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter].
+
 
 
